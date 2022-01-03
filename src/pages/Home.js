@@ -23,8 +23,6 @@ function Home() {
         <FeaturesHome />
         <FeaturesBlocks />
         <Testimonials />
-        <Newsletter />
-
       </main>
 
       {/*  Site footer */}
