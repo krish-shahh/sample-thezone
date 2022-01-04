@@ -154,6 +154,7 @@ function Features() {
           </div >
 
         </div >
+        </div>
     </section >
   );
 }
