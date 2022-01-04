@@ -64,7 +64,7 @@ function Footer() {
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</Link>
+                <Link to="https://www.itsthezone.com/blog" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</Link>
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Support Center</Link>
