@@ -64,7 +64,7 @@ function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-            <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="109" height="109" viewBox="0 0 1000.000000 300.000000" preserveAspectRatio="xMidYMid meet"> 
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="109" height="109" viewBox="0 0 400.000000 80.000000" preserveAspectRatio="xMidYMid meet"> 
               <g transform="translate(0.000000,171.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
                 <path d="M5340 976 l0 -325 26 -20 c20 -15 41 -21 80 -21 53 0 54 1 54 29 0 27 -3 30 -37 33 l-38 3 -5 310 -5 310 -37 3 -38 3 0 -325z"/>
                 <path d="M3631 1277 c-77 -25 -131 -114 -116 -193 11 -63 63 -105 193 -154 139 -54 172 -80 172 -142 0 -52 -21 -85 -66 -104 -80 -34 -174 -3 -221 72 -25 40 -31 45 -57 39 -40 -7 -42 -11 -24 -48 45 -95 116 -137 229 -136 132 1 197 45 220 149 22 99 -30 170 -163 219 -185 69 -217 95 -204 164 12 63 76 93 160 75 43 -9 81 -41 111 -93 8 -14 18 -16 42 -11 30 7 31 8 21 39 -16 45 -86 110 -134 125 -49 14 -116 14 -163 -1z"/>
