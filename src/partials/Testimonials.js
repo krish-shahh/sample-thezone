@@ -30,7 +30,7 @@ function Testimonials() {
           </div>
 
           {/* Items */}
-          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-5">
+          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-3">
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
