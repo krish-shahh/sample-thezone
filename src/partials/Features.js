@@ -110,7 +110,7 @@ function Features() {
                   leaveEnd="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                    <img className="md:max-w-none mx-auto" src={require('../images/Mockup1.webp').default} width="300" height="600" alt="Features bg" />
+                    <img className="md:max-w-none mx-auto" src={require('../images/The Zone.webp').default} width="300" height="600" alt="Features bg" />
                   </div>
                 </Transition>
                 {/* Item 2 */}
@@ -126,7 +126,7 @@ function Features() {
                   leaveEnd="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                    <img className="md:max-w-none mx-auto" src={require('../images/Mockup2.webp').default} width="300" height="600" alt="Features bg" />
+                    <img className="md:max-w-none mx-auto" src={require('../images/The Zone.webp').default} width="300" height="600" alt="Features bg" />
                   </div>
                 </Transition>
                 {/* Item 3 */}
@@ -142,7 +142,7 @@ function Features() {
                   leaveEnd="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                   <img className="md:max-w-none mx-auto" src={require('../images/Mockup3.webp').default} width="300" height="600" alt="Features bg" />
+                   <img className="md:max-w-none mx-auto" src={require('../images/The Zone.webp').default} width="300" height="600" alt="Features bg" />
                   </div>
                 </Transition>
               </div>
